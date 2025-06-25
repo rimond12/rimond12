@@ -6,9 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;React,+Node,+MongoDB+Specialist;Always+Learning+New+Techs...&center=true&width=500&height=45" />
 </p>
 
-
 <p align="center">
-  <img src="https://i.ibb.co/KjRZbfd5/4884785.jpg" alt="Banner" style="width:100%; max-height:300px; object-fit:cover;" />
+  <iframe src="https://lottie.host/embed/85957f0e-5941-4e9c-9d9f-d2979896601e/dzA8FrFFBN.json" style="width: 100%; height: 300px; border: none;" title="Developer Lottie Animation"></iframe>
 </p>
 ---
 
