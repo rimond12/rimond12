@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/hF9S5Dx/lottie-banner.gif" alt="Developer Animation" width="100%" style="max-height: 300px; object-fit: cover;" />
+  <img src="https://i.ibb.co/KjRZbfd5/4884785.jpg" alt="Banner" style="width:100%; max-height:300px; object-fit:cover;" />
 </p>
 ---
 
