@@ -63,7 +63,7 @@ I'm a MERN Stack developer who enjoys building full-stack applications with clea
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RimonDey&theme=radical&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rimond12&theme=radical&no-bg=true&margin-w=10" />
 </p>
 
 ---
