@@ -1,33 +1,32 @@
-<div><p align="center">
-  <img src="https://i.ibb.co/cScgj22B/Black-and-Blue-Abstract-Esports-Twitch-Banner.png" alt="Banner" />
-</p></div>
+<p align="center">
+  <img src="https://i.ibb.co/cScgj22B/Black-and-Blue-Abstract-Esports-Twitch-Banner.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Rimon Dey</h1>
 <h3 align="center">🚀 MERN Stack Developer | JavaScript Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;React,+Node,+MongoDB+Specialist;Always+Learning+New+Techs...&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React,+Node,+MongoDB+Specialist;Clean+Code+Lover;Always+Learning+New+Techs..." alt="Typing SVG" />
 </p>
-
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-Passionate MERN stack developer who enjoys crafting clean and efficient full-stack web applications. I love solving real-world problems with code and bringing creative ideas to life.
+I'm a MERN Stack developer who enjoys building full-stack applications with clean architecture and real-world usability. Focused on both front-end experience and backend logic.
 
 ### 🔍 Currently I'm:
-- 🚀 Exploring **Next.js** and **server-side rendering**
-- 🛠️ Building a **Tourism Web App**
+- 🚀 Exploring **Next.js** and server-side rendering
+- 🛠 Building a **Tourism Web App**
 - 🔐 Practicing **JWT & role-based authentication**
-- 🌱 Learning **React Query & advanced hooks**
+- 🌱 Learning **React Query** and advanced hooks
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,vite,vercel,netlify,github,git,figma,photoshop,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,jwt,vite,vercel,netlify,github,git,figma,photoshop,canva" />
 </p>
 
 ---
@@ -35,13 +34,17 @@ Passionate MERN stack developer who enjoys crafting clean and efficient full-sta
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.facebook.com/share/1C61VC2jsw/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:rimondey010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1C61VC2jsw/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:rimondey010@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Code in Action: My GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RimonDey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
