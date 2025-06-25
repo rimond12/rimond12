@@ -26,7 +26,7 @@ I'm a MERN Stack developer who enjoys building full-stack applications with clea
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,jwt,vite,vercel,netlify,github,git,figma,photoshop,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,vite,vercel,netlify,github,git,figma,photoshop,canva" />
 </p>
 
 ---
