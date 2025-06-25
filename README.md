@@ -47,7 +47,7 @@ I'm a MERN Stack developer who enjoys building full-stack applications with clea
 ## 🚀 Code in Action: My GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RimonDey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimond12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
