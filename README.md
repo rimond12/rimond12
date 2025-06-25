@@ -1,3 +1,6 @@
+<div><p align="center">
+  <img src="https://i.ibb.co/cScgj22B/Black-and-Blue-Abstract-Esports-Twitch-Banner.png" alt="Banner" />
+</p></div>
 
 <h1 align="center">Hi 👋, I'm Rimon Dey</h1>
 <h3 align="center">🚀 MERN Stack Developer | JavaScript Enthusiast | Lifelong Learner</h3>
@@ -6,9 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;React,+Node,+MongoDB+Specialist;Always+Learning+New+Techs...&center=true&width=500&height=45" />
 </p>
 
-<div><p align="center">
-  <img src="https://i.ibb.co/Zz5Sy3jJ/20287906-6283307.jpg" alt="Banner" />
-</p></div>
+
 ---
 
 ## 💫 About Me
