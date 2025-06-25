@@ -26,7 +26,7 @@ Passionate MERN stack developer who enjoys crafting clean and efficient full-sta
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,jwt,vite,vercel,netlify,github,git,postman,figma,photoshop,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,jwt,vite,vercel,netlify,github,git,figma,photoshop,canva" />
 </p>
 
 ---
