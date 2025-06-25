@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/KjRZbfd5/4884785.jpg" alt="Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Rimon Dey</h1>
 <h3 align="center">🚀 MERN Stack Developer | JavaScript Enthusiast | Lifelong Learner</h3>
@@ -9,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;React,+Node,+MongoDB+Specialist;Always+Learning+New+Techs...&center=true&width=500&height=45" />
 </p>
 
+
+<p align="center">
+  <img src="https://i.ibb.co/KjRZbfd5/4884785.jpg" alt="Banner" style="width:100%; max-height:300px; object-fit:cover;" />
+</p>
 ---
 
 ## 💫 About Me
