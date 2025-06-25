@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/xSPvXBW2" alt="Banner" />
+  <img src="https://i.ibb.co/KjRZbfd5/4884785.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rimon Dey</h1>
