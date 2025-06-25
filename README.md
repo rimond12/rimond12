@@ -7,7 +7,7 @@
 </p>
 
 <div><p align="center">
-  <img src="https://i.ibb.co/KjRZbfd5/4884785.jpg" alt="Banner" />
+  <img src="https://i.ibb.co/Zz5Sy3jJ/20287906-6283307.jpg" alt="Banner" />
 </p></div>
 ---
 
