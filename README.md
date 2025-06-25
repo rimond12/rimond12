@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <iframe src="https://lottie.host/embed/85957f0e-5941-4e9c-9d9f-d2979896601e/dzA8FrFFBN.json" style="width: 100%; height: 300px; border: none;" title="Developer Lottie Animation"></iframe>
+  <img src="https://i.ibb.co/hF9S5Dx/lottie-banner.gif" alt="Developer Animation" width="100%" style="max-height: 300px; object-fit: cover;" />
 </p>
 ---
 
