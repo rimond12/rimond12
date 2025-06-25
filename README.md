@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;React,+Node,+MongoDB+Specialist;Always+Learning+New+Techs...&center=true&width=500&height=45" />
 </p>
 
-<p align="center">
+<div><p align="center">
   <img src="https://i.ibb.co/KjRZbfd5/4884785.jpg" alt="Banner" style="width:100%; max-height:300px; object-fit:cover;" />
-</p>
+</p></div>
 ---
 
 ## 💫 About Me
@@ -25,9 +25,9 @@ Passionate MERN stack developer who enjoys crafting clean and efficient full-sta
 
 ## 💻 Tech Stack
 
-<div><p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,jwt,vite,vercel,netlify,github,git,figma,photoshop,canva" />
-</p></div>
+</p>
 
 ---
 
