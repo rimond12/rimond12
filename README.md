@@ -51,11 +51,11 @@ I'm a MERN Stack developer who enjoys building full-stack applications with clea
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RimonDey&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rimond12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimonDey&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimond12&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
