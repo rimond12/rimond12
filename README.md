@@ -50,6 +50,7 @@ I'm a MERN Stack developer who enjoys building full-stack applications with clea
   <a href="https://discord.com/users/your-discord-id" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <br>
   <a href="tel:+8801859594076" target="_blank">
     <img src="https://img.shields.io/badge/Phone-%2B8801859594076-25D366?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
