@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="[https://i.ibb.co/cScgj22B/Black-and-Blue-Abstract-Esports-Twitch-Banner.png](https://i.ibb.co.com/WbxjsC2/Purple-White-Modern-Futuristic-Game-Stream-Twitch-Banner.png)" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+  <img src="(https://i.ibb.co.com/WbxjsC2/Purple-White-Modern-Futuristic-Game-Stream-Twitch-Banner.png)" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 </p>
 
 
