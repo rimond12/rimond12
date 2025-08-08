@@ -16,14 +16,16 @@
 ---
 
 ## 👨‍💻 About Me
+I'm a MERN Stack developer passionate about building scalable full-stack applications with clean architecture and seamless user experience. I focus equally on front-end design and backend development to deliver real-world solutions.
 
-I'm a MERN Stack developer who enjoys building full-stack applications with clean architecture and real-world usability. Focused on both front-end experience and backend logic.
+🔍 Currently I'm:
+🚀 Exploring Next.js and server-side rendering
 
-### 🔍 Currently I'm:
-- 🚀 Exploring **Next.js** and server-side rendering
-- 🛠 Building a **Tourism Web App**
-- 🔐 Practicing **JWT & role-based authentication**
-- 🌱 Learning **React Query** and advanced hooks
+🛠 Building a Tourism Web App
+
+🔧 Enhancing apps with advanced React hooks and state management
+
+🌱 Learning about performance optimization and scalable architecture
 
 ---
 
@@ -44,7 +46,7 @@ I'm a MERN Stack developer who enjoys building full-stack applications with clea
   <a href="mailto:rimondey010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/rimon-dey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/your-discord-id" target="_blank">
