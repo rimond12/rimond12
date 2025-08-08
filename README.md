@@ -1,17 +1,9 @@
 
 
-https://github.com/user-attachments/assets/34943edd-5d02-47a9-8493-844fb9d05720
-
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/34943edd-5d02-47a9-8493-844fb9d05720"
-         width="100%" 
-         height="300"
-         autoplay
-         muted
-         loop
-         playsinline>
-  </video>
+  <img src="https://i.ibb.co/cScgj22B/Black-and-Blue-Abstract-Esports-Twitch-Banner.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Rimon Dey</h1>
