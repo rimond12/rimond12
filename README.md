@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/34943edd-5d02-47a9-8493-844fb9d05720
 
 <p align="center">
-  <video src="[https://github.com/RimonDey/RimonDey/raw/main/banner.mp4](https://github.com/user-attachments/assets/34943edd-5d02-47a9-8493-844fb9d05720)"
+  <video src="https://github.com/user-attachments/assets/34943edd-5d02-47a9-8493-844fb9d05720"
          width="100%" 
          height="300"
          autoplay
@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/34943edd-5d02-47a9-8493-844fb9d05720
          playsinline>
   </video>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Rimon Dey</h1>
 <h3 align="center">🚀 MERN Stack Developer | JavaScript Enthusiast | Lifelong Learner</h3>
