@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER - capsule-render works perfectly on GitHub -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Rimon%20Dey&fontSize=72&fontColor=00f7ff&fontAlignY=42&fontAlign=50&desc=MERN%20Stack%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=60&descSize=20&descColor=a8d8ea&animation=twinkling" width="100%" />
 
 </div>
@@ -19,7 +18,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rimondey010@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C61VC2jsw/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801859594076)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 [![Profile Views](https://komarev.com/ghpvc/?username=rimond12&style=flat-square&color=2c5364&label=Profile+Views)](https://github.com/rimond12)
 
 </div>
@@ -28,19 +26,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+## 👨‍💻 About Me
 
 ```javascript
 const rimonDey = {
   name        : "Rimon Dey",
   role        : "MERN Stack Developer 🚀",
-  location    : "Bangladesh 🇧🇩",
+  location    : "Fatikchari, Chattogram, Bangladesh 🇧🇩",
   email       : "rimondey010@gmail.com",
-
   skills      : ["React", "Next.js", "Node.js", "Express", "MongoDB"],
   currentBuild: "🌍 Tourism Web Application",
   learning    : ["Next.js SSR", "Performance Optimization", "Scalable Architecture"],
-
   philosophy  : "First solve the problem, then write the code. 💡",
   funFact     : "I debug with console.log and I'm NOT ashamed 😄",
   openTo      : ["Collaborations", "Freelance", "Open Source"]
@@ -49,29 +45,19 @@ const rimonDey = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> What I'm Up To
+## 🔥 What I'm Up To
 
-<table align="center" border="0">
-<tr>
-<td>🚀</td><td><b>Exploring</b> Next.js & Server-Side Rendering</td>
-</tr>
-<tr>
-<td>🛠️</td><td><b>Building</b> a full-featured Tourism Web App</td>
-</tr>
-<tr>
-<td>🔧</td><td><b>Mastering</b> Advanced React Hooks & State Management</td>
-</tr>
-<tr>
-<td>📐</td><td><b>Studying</b> Scalable Architecture & Performance Optimization</td>
-</tr>
-<tr>
-<td>🤝</td><td><b>Open to</b> Collaborations & Freelance Projects</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🚀 | **Exploring** Next.js & Server-Side Rendering |
+| 🛠️ | **Building** a full-featured Tourism Web App |
+| 🔧 | **Mastering** Advanced React Hooks & State Management |
+| 📐 | **Studying** Scalable Architecture & Performance Optimization |
+| 🤝 | **Open to** Collaborations & Freelance Projects |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -112,15 +98,17 @@ const rimonDey = {
 <div align="center">
 
 <a href="https://github.com/rimond12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimond12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=a8d8ea&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimond12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=a8d8ea"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimond12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=a8d8ea&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimond12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=a8d8ea"/>
 </a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=rimond12&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff&sideLabels=a8d8ea&dates=a8d8ea&sideNums=00f7ff&currStreakNum=00f7ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=rimond12&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff&sideLabels=a8d8ea&dates=a8d8ea&sideNums=00f7ff&currStreakNum=00f7ff" alt="GitHub Streak" />
 
 </div>
 
@@ -130,7 +118,7 @@ const rimonDey = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rimond12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rimond12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=6&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -150,27 +138,17 @@ const rimonDey = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rimon-dey" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rimondey010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/share/1C61VC2jsw/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://wa.me/8801859594076" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://discord.com/users/your-discord-id" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimon-dey)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimondey010@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C61VC2jsw/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801859594076)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote of the Day
 
 <div align="center">
 
@@ -183,6 +161,10 @@ const rimonDey = {
 <div align="center">
 
 ### 💬 *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=rimond12&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
 
 <br/>
 
