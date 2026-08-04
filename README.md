@@ -13,8 +13,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ══════════════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2C5364&center=true&vCenter=true&width=700&height=55&lines=👋+Hi%2C+I'm+Rimon+Dey!;🚀+MERN+Stack+Developer;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🎯+Clean+Code+%26+Scalable+Architecture;💡+Always+Learning+%26+Building+Real+Solutions"
-         alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2C5364&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rimon+Dey%21;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%26+Scalable+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
