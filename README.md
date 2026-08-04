@@ -107,10 +107,14 @@ const rimonDey = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rimond12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimond12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</div>
+<p align="center">
+ 
+ 
+  <a href="https://github.com/rimond12">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rimond12&color=0088ff&style=flat&label=Profile+Views" />
+  </a>
+
+</p>
 
 <div align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=rimond12&theme=tokyonight&hide_border=true" />
