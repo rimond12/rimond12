@@ -122,10 +122,10 @@ const rimonDey = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rimond12&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=4" />
+  <img src="https://raw.githubusercontent.com/rimond12/rimond12/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
